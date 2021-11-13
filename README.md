@@ -2,6 +2,8 @@
 
 I'm **Ludovico** and I am currently studying Computer Science and Engineering (MSc) at Politecnico di Milano.
 
+My main area of interest includes Data Science, Machine Learning and Deep Learning.
+
 
 Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/)! 
 
