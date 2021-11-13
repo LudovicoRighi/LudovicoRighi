@@ -8,10 +8,8 @@ Currently, I am looking for Software Engineering or Data Science internship oppo
 
 Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/)! 
 
-Feel free to contact me:
-
-📞 (+39) 3397557977
-
+Feel free to contact me:  
+📞 (+39) 3397557977  
 📫 righiludovico@gmail.com
 
 <!--
