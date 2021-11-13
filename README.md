@@ -8,7 +8,9 @@ Currently, I am looking for Software Engineering or Data Science internship oppo
 
 Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/)! 
 
-
+Contacts: 
+📞 (+39) 3397557977
+📫 righiludovico@gmail.com
 
 <!--
 **LudovicoRighi/LudovicoRighi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
