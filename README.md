@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ludovico and I am currently studying Computer Science and Engineering (MSc) at Politecnico di Milano.
+I'm **Ludovico** and I am currently studying Computer Science and Engineering (MSc) at Politecnico di Milano.
 
 
 Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/) 
