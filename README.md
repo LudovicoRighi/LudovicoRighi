@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm **Ludovico** and I am a MSc student in Computer Science and Engineering (MSc) at Politecnico di Milano. ![flag-italy_1f1ee-1f1f9](https://user-images.githubusercontent.com/52406034/141650515-e762b8fe-d829-4bed-be1e-b1a37f95251b.png)
+I'm **Ludovico** and I am a MSc student in Computer Science and Engineering (MSc) at Politecnico di Milano.  <img width="3%" src="https://user-images.githubusercontent.com/52406034/141650515-e762b8fe-d829-4bed-be1e-b1a37f95251b.png">
+ 
 
 
 My main area of interest includes Data Science, Machine Learning and Deep Learning.  
