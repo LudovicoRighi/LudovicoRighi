@@ -7,6 +7,8 @@ My main area of interest includes Data Science, Machine Learning and Deep Learni
 
 Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/)! 
 
+🇮🇹
+
 
 <!--
 **LudovicoRighi/LudovicoRighi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
