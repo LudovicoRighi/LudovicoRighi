@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm **Ludovico** and I am a MSc student in Computer Science and Engineering (MSc) at Politecnico di Milano. :it:
+I'm **Ludovico** and I am a MSc student in Computer Science and Engineering (MSc) at Politecnico di Milano. 
 
 My main area of interest includes Data Science, Machine Learning and Deep Learning.
-
+Currently, I am looking for internship opportunities for summer 2022.
 
 Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/)! 
-
 
 
 
