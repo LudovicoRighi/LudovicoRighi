@@ -14,12 +14,11 @@ Currently, I am looking for Software Engineering or Data Science internship oppo
 • [Easy-Review](https://github.com/LudovicoRighi/EasyReview)  
 
 
-
-Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/)! 
-
 Feel free to contact me:  
 📞 (+39) 3397557977  
-📫 righiludovico@gmail.com
+📫 righiludovico@gmail.com  
+Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/)! 
+
 
 <!--
 **LudovicoRighi/LudovicoRighi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
