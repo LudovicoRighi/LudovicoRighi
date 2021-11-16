@@ -7,6 +7,14 @@ I'm **Ludovico** and I am a MSc student in Computer Science and Engineering (MSc
 My main area of interest includes Data Science, Machine Learning and Deep Learning.  
 Currently, I am looking for Software Engineering or Data Science internship opportunities for summer 2022.
 
+📌 **Projects**:  
+• [Customers Line-Up](https://github.com/LudovicoRighi/Customer-LineUp)  
+• [Visual Question-Answering DL Challenge](https://github.com/LudovicoRighi/Visual-Question-Answering-DL-Challenge)  
+• [U-Net with Dice Loss for Multiclass Instance Segmentation](https://github.com/LudovicoRighi/U-Net-with-Dice-Loss-for-Multiclass-Instance-Segmentation)  
+• [Easy-Review](https://github.com/LudovicoRighi/EasyReview)  
+
+
+
 Have a look at my [**Linkedin** profile](https://www.linkedin.com/in/ludovico-righi-18b886167/)! 
 
 Feel free to contact me:  
