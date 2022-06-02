@@ -4,8 +4,7 @@ I'm **Ludovico** and I am a MSc student in Computer Science and Engineering (MSc
  
 
 
-My main area of interest includes Data Science, Machine and Deep Learning and Software Engineering.  
-Currently, I am looking for Software Engineering, ML/DL or Data Science internship opportunities for summer 2022.
+My main area of interest includes Data Science, Machine and Deep Learning and Software Engineering.
 
 📌 **Projects**:  
 • [Customers Line-Up](https://github.com/LudovicoRighi/Customer-LineUp)  
