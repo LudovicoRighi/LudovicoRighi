@@ -13,9 +13,9 @@ My main area of interest includes Data Science, Machine and Deep Learning and So
 • [Easy-Review](https://github.com/LudovicoRighi/EasyReview)  
 
  ℹ️ **Experience**:  
-• Software Development Engineer Intern at Amazon (Sep-Dec 2022)
-• Software Engineer Intern at Optiver (Jul-Aug 2022)
-• Master of Science student in Computer Science and Engineering at Politecnico di Milano
+• Software Development Engineer Intern at Amazon (Sep-Dec 2022)  
+• Software Engineer Intern at Optiver (Jul-Aug 2022)  
+• Master of Science student in Computer Science and Engineering at Politecnico di Milano  
 
 
 Feel free to contact me:  
