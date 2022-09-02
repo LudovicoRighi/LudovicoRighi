@@ -7,7 +7,7 @@ I'm **Ludovico** and I am a MSc student in Computer Science and Engineering (MSc
 My main area of interest includes Software Engineering, Data Science, Machine and Deep Learning.
 
 📌 **Projects**:  
-• [Customers Line-Up](https://github.com/LudovicoRighi/Customer-LineUp)  
+• [Customers Line-Up](https://github.com/LudovicoRighi/Customers-LineUp)  
 • [Visual Question-Answering DL Challenge](https://github.com/LudovicoRighi/Visual-Question-Answering-DL-Challenge)  
 • [U-Net with Dice Loss for Multiclass Instance Segmentation](https://github.com/LudovicoRighi/U-Net-with-Dice-Loss-for-Multiclass-Instance-Segmentation)  
 • [Easy-Review](https://github.com/LudovicoRighi/EasyReview)  
