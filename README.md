@@ -4,7 +4,7 @@ I'm **Ludovico** and I am a MSc student in Computer Science and Engineering (MSc
  
 
 
-My main area of interest includes Data Science, Machine and Deep Learning and Software Engineering.
+My main area of interest includes Software Engineering, Data Science, Machine and Deep Learning.
 
 📌 **Projects**:  
 • [Customers Line-Up](https://github.com/LudovicoRighi/Customer-LineUp)  
@@ -15,8 +15,6 @@ My main area of interest includes Data Science, Machine and Deep Learning and So
  ℹ️ **Experience**:  
 • Software Development Engineer Intern at Amazon (Sep-Dec 2022)  
 • Software Engineer Intern at Optiver (Jul-Aug 2022)  
-• Master of Science student in Computer Science and Engineering at Politecnico di Milano  
-
 
 Feel free to contact me:  
 📞 (+39) 3397557977  
