@@ -12,9 +12,10 @@ My main area of interest includes Software Engineering, Data Science, Machine an
 • [U-Net with Dice Loss for Multiclass Instance Segmentation](https://github.com/LudovicoRighi/U-Net-with-Dice-Loss-for-Multiclass-Instance-Segmentation)  
 • [Easy-Review](https://github.com/LudovicoRighi/EasyReview)  
 
- ℹ️ **Experience**:  
-• Software Development Engineer Intern at Amazon (Sep-Dec 2022)  
-• Software Engineer Intern at Optiver (Jul-Aug 2022)  
+ ℹ️ **Work Experience**:  
+• Software Engineer Intern (Master Thesis) at [Benetics](https://benetics.io/) (May-Jul 2023)  
+• Software Development Engineer Intern at [Amazon](amazon.com) (Sep-Dec 2022)  
+• Software Engineer Intern at [Optiver](https://optiver.com/) (Jul-Aug 2022)  
 
 Feel free to contact me:  
 📞 (+39) 3397557977  
