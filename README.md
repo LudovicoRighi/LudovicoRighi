@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm **Ludovico**, a graduate software engineer from Italy <img width="3%" src="https://user-images.githubusercontent.com/52406034/141650515-e762b8fe-d829-4bed-be1e-b1a37f95251b.png">   
+I'm **Ludovico**, a graduate Software Engineer from Italy <img width="3%" src="https://user-images.githubusercontent.com/52406034/141650515-e762b8fe-d829-4bed-be1e-b1a37f95251b.png">   
 
 My main area of interest includes Software Engineering, Machine Learning and Deep Learning.
 
