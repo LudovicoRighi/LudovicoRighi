@@ -14,7 +14,7 @@ My main area of interest includes Software Engineering, Data Science, Machine an
 
  ℹ️ **Work Experience**:  
 • Software Engineer Intern (Master Thesis) at [Benetics](https://benetics.io/) (May-Jul 2023)  
-• Software Development Engineer Intern at [Amazon](amazon.com) (Sep-Dec 2022)  
+• Software Development Engineer Intern at [Amazon](https://www.amazon.com/) (Sep-Dec 2022)  
 • Software Engineer Intern at [Optiver](https://optiver.com/) (Jul-Aug 2022)  
 
 Feel free to contact me:  
