@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm **Ludovico**, a graduate software engineer from Italy <img width="3%" src="https://user-images.githubusercontent.com/52406034/141650515-e762b8fe-d829-4bed-be1e-b1a37f95251b.png"> 
+I'm **Ludovico**, a graduate software engineer from Italy <img width="3%" src="https://user-images.githubusercontent.com/52406034/141650515-e762b8fe-d829-4bed-be1e-b1a37f95251b.png">   
 
 My main area of interest includes Software Engineering, Machine Learning and Deep Learning.
 
@@ -16,8 +16,8 @@ My main area of interest includes Software Engineering, Machine Learning and Dee
 • Software Engineer Intern at [Optiver](https://optiver.com/) (Jul-Aug 2022)  
 
  👨‍🎓 **Education**:  
-• Master of Science in Computer Science and Engineering at Politecnico di Milano (Italy) - (Sep 2020 - Oct 2023).
-• Bachelor of Science in Computer Science and Engineering at Università degli Studi di Modena e Reggio Emilia (Italy) - (Sep 2017 - Oct 2020). 
+• Master of Science in Computer Science and Engineering at Politecnico di Milano (Italy) - (Sep 2020 - Oct 2023).  
+• Bachelor of Science in Computer Science and Engineering at Università degli Studi di Modena e Reggio Emilia (Italy) - (Sep 2017 - Jul 2020).   
 
 
 Feel free to contact me:  
